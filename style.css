@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.feature-img{
+    width: 90%;
+    padding: 10px 10px;
+    margin: 20px 30px 20px 30px;
+    border-radius: 40px;
+    border: 2px solid transparent;
+}
+.row{
+    width: 100%;
+
+}
+.row h1{
+    margin-left: 40px;
+    font-size: 50px;
+}
+.row p{
+    margin-left: 40px;
+    color: #0f0f0e;
+    font-weight: 700;
+}
+.container {
+    background-color: #d9f6d9d0;
+    margin: 50px;
+    left: 30%;
+    border-radius: 40px;
+    border: 2px solid transparent;
+}
+.container ul{
+    margin: 50px;
+}
+.container h2{
+    margin: 20px;
+    font-size: 40px;
+
+    
+}
+.container ul{
+    margin-top: 40px;
+    font-size: 20px;
+
+}
+.hero {
+    margin: 50px;
+    left: 30%;
+    border-radius: 40px;
+    
+}
+.hero ul{
+    margin: 50px;
+    font-size: 70;
+   
+    
+}
+.hero h3{
+    color: #a02d4ed0;
+    font-size: 40px;
+
+}
+.col{
+    margin-left: 40px;
+}
+.col h4{
+    margin: 40px;
+    color: red;
+    font-size: 40px;
+}
+.col ol{
+    margin: 40px;
+    font-size: 20px;
+}
+.attribution{
+    margin-bottom: 40px;
+    margin-left: 40px;
+    font-size: 15px;
+}
+.last{
+    margin: 40px;
+    font-size: 15px;
+    
+}
+.last h5{
+    color: aqua;
+    font-size: 25px;
+}
+.last div p{
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
